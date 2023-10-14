@@ -1,0 +1,21 @@
+.albumList{
+    margin: 16px;
+    justify-content: space-between;
+}
+
+.listItem {
+    margin: 30px;
+    border-radius: 7px;
+}
+
+img {
+    background-color: none;
+    height: 100px;
+}
+
+.paraDiv{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(44, 151, 205);
+    border-radius: 4px;
+}
